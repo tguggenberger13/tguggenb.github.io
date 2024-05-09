@@ -1,4 +1,4 @@
-# Project Placeholder 
+Project Placeholder 
 
 Project1
 
